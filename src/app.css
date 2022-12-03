@@ -1,0 +1,9 @@
+body{
+    background-color: #F5F5F5;
+    font-family: 'Roboto', sans-serif;
+}
+
+.label-name{
+    font-size: 20px;
+    font-weight: 600;
+}
